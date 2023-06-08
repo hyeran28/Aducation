@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "63453569157",
+    "project_id": "aducationactivity",
+    "storage_bucket": "aducationactivity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63453569157:android:09b17641367a976f9709ec",
+        "android_client_info": {
+          "package_name": "com.example.aducation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWa0xAZGfCFpuWQJw1p41Hn_jIE3baCR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63453569157:android:9f2020224bcc10fb9709ec",
+        "android_client_info": {
+          "package_name": "com.example.aducationactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWa0xAZGfCFpuWQJw1p41Hn_jIE3baCR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63453569157:android:34ecbf855a3c5d069709ec",
+        "android_client_info": {
+          "package_name": "com.example.myactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWa0xAZGfCFpuWQJw1p41Hn_jIE3baCR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
